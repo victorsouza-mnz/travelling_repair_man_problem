@@ -1,0 +1,12 @@
+{
+  "name": "trp",
+  "version": "1.0.0",
+  "description": "Implementação do TRP (Travelling repairman problem) usando GRASP",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Souza de Menezes",
+  "license": "ISC"
+}
