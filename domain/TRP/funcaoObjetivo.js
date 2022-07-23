@@ -16,8 +16,6 @@ const latencia = (indice, solucao) => {
     return latencia;
 }
 
-const solucao = [0, 1, 2, 3, 4, 5, 6];
+const solucao = [0, 4, 2, 3, 1, 5, 6];
 
 export default f;
-
-console.log(f(solucao, pesos));

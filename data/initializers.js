@@ -11,7 +11,7 @@ export const criaMatrizDeProximidades = () => {
             .filter((el) => el)
             .sort((a, b) => a.el - b.el)
             .map((el) => el.idx);
-        console.log(linha);
+        matrizDeProximidades.push(linha);
     }
     return matrizDeProximidades;
 }

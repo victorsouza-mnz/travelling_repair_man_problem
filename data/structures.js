@@ -22,3 +22,5 @@ export const vertices = listaDeVertices.map(id => ({ id: id, visitado: false, te
 export const numeroDeIteracoesDoGrasp = 100;
 
 export const matrizDeProximidades = criaMatrizDeProximidades();
+
+export const alpha = 3;
